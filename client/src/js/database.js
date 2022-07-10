@@ -20,7 +20,7 @@ export const putDb = async (content) => {
   const request = store.put({ id: 1, value: content })
   const result = await request;
   console.log('data saved to database');
-  console.log(result);
+  console.log(result.value);
 }
 
 // TODO: Add logic for a method that gets all the content from the database
