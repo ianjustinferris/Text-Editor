@@ -26,7 +26,7 @@ The application is deployed to Heroku, so no installation is required.
 
 ## Usage
 
-The application has an intuitive interface that allows users to simply save their notes with the file logo in the top right corner, or delete using the trash icon. Both title and text body are required to save the note.
+A PWA Text-Editor with a polished UI, use this app to edit code both in and out of the browser. 
 
 ## GIF
 
