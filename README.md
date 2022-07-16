@@ -28,7 +28,9 @@ The application is deployed to Heroku, so no installation is required.
 
 The application has an intuitive interface that allows users to simply save their notes with the file logo in the top right corner, or delete using the trash icon. Both title and text body are required to save the note.
 
-## GIF showcasing off-line functionality 
+## GIF
+
+Showcasing off-line Functionality 
 
 ![off-line Funtionality GIF](/client/src/images/offlineFunctionality.gif)
 
@@ -40,7 +42,7 @@ Implementation of Service Workers
 
 Implementation of IndexedDB
 
-![IndexedDB Screen Shot](/client/src/images/offlineFunctionality.png)
+![IndexedDB Screen Shot](/client/src/images/IndexedDB.png)
 
 ## Credits
 
