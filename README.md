@@ -18,7 +18,7 @@ A PWA Text-Editor that runs in the browser. It features a number of data-persist
 
 ## Deployed_Link
 
-
+https://aqueous-beyond-75853.herokuapp.com/
 
 ## Installation
 
